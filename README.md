@@ -2,5 +2,5 @@
 Tanpa Perlu Database (data disimpandalam bentuk file json)
 
 #Fungsi
-mycomment.php || Halaman Pengisian
-mycommentdata.php || Halaman Hasil
+1. mycomment.php || Halaman Pengisian
+2. mycommentdata.php || Halaman Hasil
