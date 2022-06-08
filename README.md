@@ -1,4 +1,4 @@
-# Guest Comment
+# Guest Comment Simple
 Tanpa Perlu Database (data disimpan dalam bentuk file json) dan bisa di reset
 
 #Fungsi
